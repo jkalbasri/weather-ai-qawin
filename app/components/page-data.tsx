@@ -39,11 +39,11 @@ export function PageData({ data }: { data: any }) {
         <p>
           Generated at {date} by{" "}
           <a
-            href="https://vercel.com/docs/concepts/functions/edge-functions"
+            href="www.albasri.dk"
             target="_blank"
             rel="noreferrer"
           >
-            Vercel Edge Runtime
+            AA
           </a>
         </p>
       </Footer>
