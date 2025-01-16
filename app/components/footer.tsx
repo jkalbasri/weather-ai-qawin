@@ -56,7 +56,7 @@ export function Footer({ children }: React.PropsWithChildren<{}>) {
 
       <a
         target="_blank"
-        href="https://github.com/prachit082/Weather-Ai"
+        href="https://github.com/jkalbasri/weather-ai-qawin"
         className="source"
         rel="noreferrer"
       >
