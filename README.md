@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
+  · <a href="#features"><strong>Features</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
   <a href="https://weather-ai-qawin.vercel.app/" target="blank"><strong>Demo</strong></a> ·
 </p>
