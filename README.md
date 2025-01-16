@@ -1,5 +1,5 @@
 <a href="https://github.com/jkalbasri/weather-ai-qawin">
-   <img src="#" alt="OG Image">
+   <img src="readme.PNG" alt="OG Image">
 </a>
 
 <h1 align="center">WeatherGPT</h3>
@@ -31,4 +31,4 @@ You can deploy your own hosted version of this plugin to Vercel with one-click:
 
 Once you're done, don't forget to change all instances of `weather-ai-qawin.vercel.app` in the codebase to your app's URL:
 
-![Screenshot 2024-05-20 193601](###)
+![Screenshot 2024-05-20 193601<img src="readme.PNG" alt="OG Image">
