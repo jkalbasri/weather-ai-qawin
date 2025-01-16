@@ -14,9 +14,9 @@ export function PageData({ data }: { data: any }) {
         >
           Deploy your own to Vercel
         </a>
-        <h1>WeatherGPT</h1>
+        <h1>ForecastAI</h1>
         <p className="description">
-        ForecastAI
+        
         </p>
         <Illustration />
         <div className="meta">

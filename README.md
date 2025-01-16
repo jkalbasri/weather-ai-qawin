@@ -2,7 +2,7 @@
    <img src="readme.PNG" alt="OG Image">
 </a>
 
-<h1 align="center">WeatherGPT</h3>
+<h1 align="center">ForecastAI</h3>
 
 <p align="center">
    A ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel
