@@ -16,7 +16,7 @@ export function PageData({ data }: { data: any }) {
         </a>
         <h1>WeatherGPT</h1>
         <p className="description">
-          Made With weatherapi.com
+        ForecastAI
         </p>
         <Illustration />
         <div className="meta">
