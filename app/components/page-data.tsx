@@ -37,7 +37,7 @@ export function PageData({ data }: { data: any }) {
 
       <Footer>
         <p>
-          Generated at {date} by{" "}
+          Generated at {date} by {" "}
           <a
             href="www.albasri.dk"
             target="_blank"
